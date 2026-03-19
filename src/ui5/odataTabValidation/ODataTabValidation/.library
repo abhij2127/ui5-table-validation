@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>ui5.odataTabValidation.ODataTabValidation</name>
+	<vendor>Abhishek Joshi</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>ODataTabValidation</title>
+	<documentation>Some description about ODataTabValidation</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>

@@ -1,0 +1,16 @@
+{
+  "generator-ui5-library": {
+    "libraryname": "ODataTabValidation",
+    "namespace": "ui5.odataTabValidation",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.86.3",
+    "author": "Abhishek Joshi",
+    "newdir": true,
+    "namespaceURI": "ui5/odataTabValidation",
+    "librarynamespace": "ui5.odataTabValidation.ODataTabValidation",
+    "librarynamespaceURI": "ui5/odataTabValidation/ODataTabValidation",
+    "librarybasepath": "../../../",
+    "frameworklowercase": "sapui5",
+    "setupCompleted": true
+  }
+}
